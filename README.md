@@ -1,6 +1,6 @@
 # CodeChef
 <div align="center">
-<img src="https://devtechnosys.ae/blog/wp-content/uploads/2021/10/Full-stack-developer.jpg" alt="Code Chef">
+<img src="https://res.cloudinary.com/dmsxwwfb5/image/upload/v1595866967/full-stack-devlopment-min.png" alt="Code Chef">
 </div>
 <br>
 
