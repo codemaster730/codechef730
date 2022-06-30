@@ -1,6 +1,6 @@
 # GOLD LION
 <div align="center">
-<img src="[https://user-images.githubusercontent.com/82691041/137208437-bdcd36bf-08be-441b-aa69-e110054ec08b.jpg](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/full_stack/hero_image-6d2af04d8ff26b2334e0f866b3e3671b8c5e32fca0f4883c2e6a35248e36d77d.svg)" alt="Gold lion">
+<img src="https://devtechnosys.ae/blog/wp-content/uploads/2021/10/Full-stack-developer.jpg" alt="Gold lion">
 </div>
 <br>
 
