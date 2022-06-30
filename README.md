@@ -7,7 +7,7 @@
 <hr>
 <br>
 
-Full Stack developer with awesome web technical skills, hefty product development experience and the ability to thrive in a fast-paced environment, looking to create world-class web apps of HIGH STANDARD & TOP QUALITY. For years I've had an active interest in the web and modern technology. Being fascinated with its continuous fast progress I set myself for a challenge to become a Web Developer. I enjoy the process of building the web products from scratch. Solving problems and finding the best solutions is a creative process which often pushes us leaving our comfort zone and this is when we are growing, aren't we?
+I am a programmer all of my life, since my 19, learning by myself primarily. Now I am focused on Blockchain technology using Web3/Solidity as well as web/mobile programming using Node.js/React.js/Ruby on Rails. Many projects I have done as a full-stack developer because when it's small or medium, I can provide fast pace and clean result. I like a positive or neutral emotional state in working, I like clearly defined goals. When it's not well decided, I often can provide my expertness in web-development to help a customer choose a set of features, or make more effective infrastructure. 
 
 <h4 align="center">🔥 My Stacks 🔥</h4>
 <hr>
@@ -158,4 +158,4 @@ Full Stack developer with awesome web technical skills, hefty product developmen
 <hr>
 <br>
 
-Here is my [eMail](mailto:hotgold0905@gmail.com?Subject=Hello!) and [Skype](https://join.skype.com/invite/ywwZCW07yE4l).
+Here is my [eMail](mailto:axiom88guru@gmail.com?Subject=Hello!) and [Skype](https://join.skype.com/invite/ywwZCW07yE4l).
