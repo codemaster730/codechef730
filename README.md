@@ -1,10 +1,9 @@
-# GOLD LION
+# CodeChef
 <div align="center">
-<img src="https://devtechnosys.ae/blog/wp-content/uploads/2021/10/Full-stack-developer.jpg" alt="Gold lion">
+<img src="https://devtechnosys.ae/blog/wp-content/uploads/2021/10/Full-stack-developer.jpg" alt="Code Chef">
 </div>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%232087FF&size=40&center=true&vCenter=true&width=1000&lines=Where+hope+grows%2C+Miracles+blossom)](https://git.io/typing-svg)
 <hr>
 <br>
 
